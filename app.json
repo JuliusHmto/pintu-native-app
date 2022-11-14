@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "pintu-native-app",
+    "slug": "pintu-native-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "pintu-native-app"
+}
