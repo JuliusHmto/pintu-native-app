@@ -3,9 +3,15 @@
     "name": "pintu-native-app",
     "slug": "pintu-native-app",
     "version": "1.0.0",
+    "owner": "soliddtronnic",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "27e0c2a1-4aec-4756-9a30-17145207d3b6"
+      }
+    }
   },
   "name": "pintu-native-app"
 }
