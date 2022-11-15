@@ -9,7 +9,8 @@ export default {
   },
   headerContainer: {
     flexDirection: 'row',
-    padding: 20
+    padding: 20,
+    marginTop: 20,
   },
   headerLeftContainer: {
     flex: 1,
