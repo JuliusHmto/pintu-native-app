@@ -1,9 +1,6 @@
 # pintu-native-app
 Pintu Mobile Engineer Technical Test - React Native Mobile (Android)
 
-# Expo Barcode (Project ID)
-27e0c2a1-4aec-4756-9a30-17145207d3b6
-
 # Short story on my development thought process
 - I used Javascript since I've been using it since I know most of the ins and outs of it.
 - State management I use `Redux` with combination between `Redux Toolkit` for react js and regular `Redux` (actionCreators, actionTypes, etc) for Native App
